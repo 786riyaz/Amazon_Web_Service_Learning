@@ -1,0 +1,29 @@
+Amazon Lex
+🔹 Core Concepts
+Intents, Slots, and Utterances
+Lambda integration for fulfillment
+Session attributes
+Error handling and confirmation prompts
+Versioning and Aliases
+Voice vs Text bots
+Integration with Amazon Connect / AWS services
+
+AWS EC2
+🔹 Core Concepts
+Launching and connecting to EC2 instances
+Key pairs and SSH
+Security groups and inbound/outbound rules
+Elastic IP and DNS mapping
+Installing and running Node/React apps on EC2
+Monitoring and auto-scaling
+AMIs and snapshots
+
+AWS S3
+🔹 Core Concepts
+Buckets, objects, and regions
+Public vs private access
+Upload and download via AWS CLI / SDK
+Static website hosting on S3
+Lifecycle policies and versioning
+CORS configuration
+S3 + CloudFront integration
